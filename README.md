@@ -10,6 +10,12 @@ make
 ##To run the preselection:
 
 1. Make a text file of ntuples to run over and put it in the files/ directory
+To make a list of files from a list of datasets stored on NERSC_LOCALGROUPDISK, do:
+```bash
+lsetup rucio   
+voms-proxy-init-voms atlas
+scripts/listFilesRucio.py <ds_list.txt> | tee file_list.txt
+```
 
 2. Edit submit_event_selection/Submit_EventSelection.sh
 
