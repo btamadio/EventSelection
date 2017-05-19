@@ -1,0 +1,16 @@
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/e1/d0/user.btamadio.9004733._000001.tree.root
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/14/e1/user.btamadio.9004733._000002.tree.root
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/2a/28/user.btamadio.9004733._000003.tree.root
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/73/81/user.btamadio.9004733._000004.tree.root
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/d9/3c/user.btamadio.9004743._000001.tree.root
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/da/2c/user.btamadio.9004743._000002.tree.root
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/79/9c/user.btamadio.9004743._000003.tree.root
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/2c/98/user.btamadio.9004754._000001.tree.root
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/20/c4/user.btamadio.9004754._000002.tree.root
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/e3/fa/user.btamadio.9004773._000001.tree.root
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/d4/e3/user.btamadio.9004779._000001.tree.root
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/9b/63/user.btamadio.9004787._000001.tree.root
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/44/e3/user.btamadio.9004797._000001.tree.root
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/00/82/user.btamadio.9004804._000001.tree.root
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/2a/a6/user.btamadio.9004872._000001.tree.root
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/28/a9/user.btamadio.9017502._000001.tree.root

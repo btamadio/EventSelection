@@ -1,0 +1,8 @@
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/71/f6/user.btamadio.10406746._000001.tree.root
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/82/8f/user.btamadio.10406742._000001.tree.root
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/83/e2/user.btamadio.10406745._000001.tree.root
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/86/4f/user.btamadio.10406744._000001.tree.root
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/8d/b3/user.btamadio.10406743._000001.tree.root
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/a2/c2/user.btamadio.10406747._000001.tree.root
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/cf/d0/user.btamadio.10406740._000001.tree.root
+/projecta/projectdirs/atlas/atlaslocalgroupdisk/rucio/user/btamadio/e1/e2/user.btamadio.10406741._000001.tree.root
