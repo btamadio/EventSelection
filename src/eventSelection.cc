@@ -28,8 +28,8 @@ int main (int argc, char **argv){
     }
   
   //		 cout<<"path[0] = "<<path[0]<<endl;
-  if(path[0].Contains("data2015")) m_GRLFileName = "/project/projectdirs/atlas/btamadio/RPV_SUSY/bkgEstimation/GRL/data15_13TeV.periodAllYear_DetStatus-v79-repro20-02_DQDefects-00-02-02_PHYS_StandardGRL_All_Good_25ns.xml";
-  if(path[0].Contains("data2016")) m_GRLFileName = "/project/projectdirs/atlas/btamadio/RPV_SUSY/bkgEstimation/GRL/data16_13TeV.periodAllYear_DetStatus-v83-pro20-15_DQDefects-00-02-04_PHYS_StandardGRL_All_Good_25ns.xml";
+  if(path[0].Contains("data2015")) m_GRLFileName = "../GRL/data15_13TeV.periodAllYear_DetStatus-v79-repro20-02_DQDefects-00-02-02_PHYS_StandardGRL_All_Good_25ns.xml";
+  if(path[0].Contains("data2016")) m_GRLFileName = "../GRL/data16_13TeV.periodAllYear_DetStatus-v83-pro20-15_DQDefects-00-02-04_PHYS_StandardGRL_All_Good_25ns.xml";
   cout<<"Using GRL "<<m_GRLFileName<<endl;
   p = new nominalTree(chain);
   //  cout<<"Setting branch addresses"<<endl;
